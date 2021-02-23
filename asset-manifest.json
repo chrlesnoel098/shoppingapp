@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chrlesnoel098/shoppingapp.git/static/css/main.07ec13ec.chunk.css",
-    "main.js": "/chrlesnoel098/shoppingapp.git/static/js/main.6f110c93.chunk.js",
-    "main.js.map": "/chrlesnoel098/shoppingapp.git/static/js/main.6f110c93.chunk.js.map",
+    "main.js": "/chrlesnoel098/shoppingapp.git/static/js/main.1ddcde7a.chunk.js",
+    "main.js.map": "/chrlesnoel098/shoppingapp.git/static/js/main.1ddcde7a.chunk.js.map",
     "runtime-main.js": "/chrlesnoel098/shoppingapp.git/static/js/runtime-main.cedc71c5.js",
     "runtime-main.js.map": "/chrlesnoel098/shoppingapp.git/static/js/runtime-main.cedc71c5.js.map",
     "static/js/2.5e66baaa.chunk.js": "/chrlesnoel098/shoppingapp.git/static/js/2.5e66baaa.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.cedc71c5.js",
     "static/js/2.5e66baaa.chunk.js",
     "static/css/main.07ec13ec.chunk.css",
-    "static/js/main.6f110c93.chunk.js"
+    "static/js/main.1ddcde7a.chunk.js"
   ]
 }
