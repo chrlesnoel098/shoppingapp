@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/chrlesnoel098/shoppingapp.git/static/css/main.07ec13ec.chunk.css",
-    "main.js": "/chrlesnoel098/shoppingapp.git/static/js/main.a51c5b35.chunk.js",
-    "main.js.map": "/chrlesnoel098/shoppingapp.git/static/js/main.a51c5b35.chunk.js.map",
+    "main.css": "/chrlesnoel098/shoppingapp.git/static/css/main.cf6827f8.chunk.css",
+    "main.js": "/chrlesnoel098/shoppingapp.git/static/js/main.649ee1da.chunk.js",
+    "main.js.map": "/chrlesnoel098/shoppingapp.git/static/js/main.649ee1da.chunk.js.map",
     "runtime-main.js": "/chrlesnoel098/shoppingapp.git/static/js/runtime-main.cedc71c5.js",
     "runtime-main.js.map": "/chrlesnoel098/shoppingapp.git/static/js/runtime-main.cedc71c5.js.map",
-    "static/js/2.5e66baaa.chunk.js": "/chrlesnoel098/shoppingapp.git/static/js/2.5e66baaa.chunk.js",
-    "static/js/2.5e66baaa.chunk.js.map": "/chrlesnoel098/shoppingapp.git/static/js/2.5e66baaa.chunk.js.map",
+    "static/js/2.ed4915ad.chunk.js": "/chrlesnoel098/shoppingapp.git/static/js/2.ed4915ad.chunk.js",
+    "static/js/2.ed4915ad.chunk.js.map": "/chrlesnoel098/shoppingapp.git/static/js/2.ed4915ad.chunk.js.map",
     "index.html": "/chrlesnoel098/shoppingapp.git/index.html",
-    "static/css/main.07ec13ec.chunk.css.map": "/chrlesnoel098/shoppingapp.git/static/css/main.07ec13ec.chunk.css.map",
-    "static/js/2.5e66baaa.chunk.js.LICENSE.txt": "/chrlesnoel098/shoppingapp.git/static/js/2.5e66baaa.chunk.js.LICENSE.txt"
+    "static/css/main.cf6827f8.chunk.css.map": "/chrlesnoel098/shoppingapp.git/static/css/main.cf6827f8.chunk.css.map",
+    "static/js/2.ed4915ad.chunk.js.LICENSE.txt": "/chrlesnoel098/shoppingapp.git/static/js/2.ed4915ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cedc71c5.js",
-    "static/js/2.5e66baaa.chunk.js",
-    "static/css/main.07ec13ec.chunk.css",
-    "static/js/main.a51c5b35.chunk.js"
+    "static/js/2.ed4915ad.chunk.js",
+    "static/css/main.cf6827f8.chunk.css",
+    "static/js/main.649ee1da.chunk.js"
   ]
 }
